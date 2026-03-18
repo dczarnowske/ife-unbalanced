@@ -1,0 +1,6 @@
+Specification & $\text{IC}_{2}$ & $\text{BIC}_{3}$ & ER & GR & ED & PA \\ 
+  \midrule
+$p = 1$ &   5 &   2 &   1 &   1 &   2 &   3 \\ 
+  $p = 2$ &   1 &   0 &   1 &   1 &   1 &   1 \\ 
+  $p = 4$ &   1 &   0 &   0 &   0 &   1 &   1 \\ 
+   \bottomrule

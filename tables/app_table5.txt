@@ -1,0 +1,6 @@
+  \toprule
+ $N = T$&$\overline{N}=\overline{T}$&$\nu_{\text{CV}}$&$\nu_{\text{PI}}$&Time CV / Time EM&Time PI / Time EM\\
+ \midrule
+200 & 120 & 9.2487 & 48.5255 & 0.5791 & 0.3434 \\ 
+  300 & 180 & 8.7290 & 58.7705 & 0.6550 & 0.3899 \\ 
+   \bottomrule
